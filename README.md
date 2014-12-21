@@ -87,8 +87,8 @@ license.
 
 See LICENSE-APACHE and LICENSE-MIT for more details.
 
-[travis-image]: https://travis-ci.org/rust-lang/rust-by-example.svg?branch=master
-[travis-link]: https://travis-ci.org/rust-lang/rust-by-example
+[travis-image]: https://travis-ci.org/yAngle/rust-by-example.svg?branch=master
+[travis-link]: https://travis-ci.org/yAngle/rust-by-example
 [website]: http://rustbyexample.com
 [how-to-contribute]: CONTRIBUTING.md
 [rust-lang]: http://www.rust-lang.org/
